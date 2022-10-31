@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+
+.listItemContainer {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  padding: 8px;
+}
+
+.currencyLogoImage {
+  height: 30px;
+  margin-right: 8px;
+}
+
+.logoAndName {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.usdAndEuroValue {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.euroValue {
+  margin-left: 20px;
+  margin-right: 10px;
+}

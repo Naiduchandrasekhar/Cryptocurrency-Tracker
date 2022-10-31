@@ -1,0 +1,46 @@
+/* Write your CSS code here */
+.headerName {
+  color: #00e7ff;
+}
+
+.cryptoImage {
+  width: 50%;
+}
+
+.loadClass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.unorderList {
+  border: 5px solid #00e7ff;
+  list-style-type: none;
+  padding-left: 0px;
+  min-height: 250px;
+  min-width: 50%;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #092e33;
+  color: #ffffff;
+  padding: 14px;
+  height: 45px;
+}
+
+.tableUSDAndEuro {
+  display: flex;
+  justify-content: space-between;
+  min-width: 100px;
+}
